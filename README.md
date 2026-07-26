@@ -272,8 +272,8 @@ Computer Science Student | Aspiring Data Analyst
 - Excel
 - SQL
 - Python
-- Data Analysis
-- Dashboard Development
+- Power BI
+- DData Analysis
 
 GitHub:
 
