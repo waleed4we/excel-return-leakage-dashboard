@@ -99,9 +99,7 @@ The dataset was transformed using **Power Query** before visualization.
 ### Data Cleaning & Transformation
 
 ✅ Imported raw dataset
-
 ✅ Created a custom business metric
-
 ```
 Loss on Return
 =
@@ -109,15 +107,10 @@ Logistics Cost
 +
 Product Damage Cost
 ```
-
 ✅ Converted numeric fields into Currency format
-
 ✅ Corrected data types
-
 ✅ Reorganized columns for reporting
-
 ✅ Loaded transformed data into Excel Data Model
-
 ---
 
 # 📊 Dashboard Features
@@ -155,13 +148,9 @@ Product Damage Cost
 # 📈 Key Insights
 
 ✔ Electronics generated the highest financial loss.
-
 ✔ Karachi experienced the highest return leakage.
-
 ✔ Size-related issues were the leading return reason.
-
 ✔ Return losses increased significantly during later quarters.
-
 ✔ A small number of sellers contributed disproportionately to total leakage.
 
 ---
