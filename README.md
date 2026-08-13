@@ -101,15 +101,14 @@ The dataset was transformed using **Power Query** before visualization.
 ✅ Imported raw dataset
 ✅ Created a custom business metric
 ```
-Loss on Return
-=
-Logistics Cost
-+
-Product Damage Cost
+Loss on Return = Logistics Cost + Product Damage Cost
 ```
 ✅ Converted numeric fields into Currency format
+
 ✅ Corrected data types
+
 ✅ Reorganized columns for reporting
+
 ✅ Loaded transformed data into Excel Data Model
 ---
 
@@ -117,33 +116,9 @@ Product Damage Cost
 
 ## Executive KPI Cards
 
-- Worst Performing Seller
-- Top Return Reason
-- Highest Leakage City
-- Total Leakage Amount
-- Highest Loss Category
-- Primary Business Insight
-
----
-
 ## Interactive Filters
 
-- Customer Type
-- Payment Method
-- Timeline
-- Quarter Filter
-
----
-
 ## Visualizations
-
-- Return Loss by City
-- Return Loss by Category
-- Return Loss by Seller
-- Customer Distribution
-- Return Leakage Trend
-
----
 
 # 📈 Key Insights
 
