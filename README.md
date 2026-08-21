@@ -211,17 +211,6 @@ This dashboard helps organizations:
 
 ---
 
-# 🚀 Future Enhancements
-
-- Power BI Version
-- SQL Database Integration
-- Automated Data Refresh
-- Monthly KPI Reporting
-- Forecasting Models
-- Predictive Return Analysis
-- Executive Summary Page
-
----
 
 # 🧰 Technologies Used
 
