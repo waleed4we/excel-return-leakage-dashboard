@@ -96,11 +96,11 @@ Loss on Return = Logistics Cost + Product Damage Cost
 
 # 📊 Dashboard Features
 
-## Executive KPI Cards
+##### Executive KPI Cards
 
-## Interactive Filters
+##### Interactive Filters
 
-## Visualizations
+##### Visualizations
 
 # 📈 Key Insights
 
