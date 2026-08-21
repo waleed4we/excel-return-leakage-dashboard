@@ -21,24 +21,7 @@ Using **Power Query**, **Pivot Tables**, **Pivot Charts**, **Timeline Filters**,
 It enables stakeholders to quickly identify where money is being lost, why returns occur, and which business areas require immediate attention.
 
 ---
----
-## 📑 Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Dashboard Preview](#-dashboard-preview)
-- [Business Problem](#-business-problem)
-- [Business Objective](#-business-objective)
-- [Dataset Information](#-dataset-information)
-- [Data Preparation](#-data-preparation)
-- [Dashboard Features](#-dashboard-features)
-- [Key Insights](#-key-insights)
-- [Skills Demonstrated](#-excel-skills-demonstrated)
-- [Project Structure](#-project-structure)
-- [Business Value](#-business-value)
-- [Technologies Used](#-technologies-used)
-- [Dashboard Breakdown](#-dashboard-breakdown)
-- [Author](#-author)
----
 # 🖼 Dashboard Preview
 
 <p align="center">
