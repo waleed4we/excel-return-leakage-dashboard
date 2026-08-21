@@ -101,17 +101,7 @@ Loss on Return = Logistics Cost + Product Damage Cost
 ##### Interactive Filters
 
 ##### Visualizations
-
-# 📈 Key Insights
-
-✔ Electronics generated the highest financial loss.
-✔ Karachi experienced the highest return leakage.
-✔ Size-related issues were the leading return reason.
-✔ Return losses increased significantly during later quarters.
-✔ A small number of sellers contributed disproportionately to total leakage.
-
 ---
-
 # 🛠 Excel Skills Demonstrated
 
 ### Excel
