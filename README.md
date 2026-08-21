@@ -6,11 +6,8 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-Transformation-yellow?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
 
 </p>
-
----
 
 ## 📌 Project Overview
 
