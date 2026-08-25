@@ -31,7 +31,7 @@ It enables stakeholders to quickly identify where money is being lost, why retur
 
 # 🎯 Business Problem
 
-Returned orders create hidden costs beyond refunds.
+Returned orders create hidden costs beyond refunds
 
 Businesses lose money through:
 
