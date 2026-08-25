@@ -135,7 +135,6 @@ Loss on Return = Logistics Cost + Product Damage Cost
 - Customer Segmentation
 - Seller Performance Analysis
 - Category Analysis
-- Executive Reporting
 
 ---
 
