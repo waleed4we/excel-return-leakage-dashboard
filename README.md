@@ -13,7 +13,7 @@
 
 This project is an interactive **Microsoft Excel dashboard** built to analyze **return-related financial losses** in an e-commerce business
 
-Using **Power Query**, **Pivot Tables**, **Pivot Charts**, **Timeline Filters**, **Slicers**, and **Excel analytics**, the dashboard converts raw business data into meaningful insights that support better operational and management decisions.
+Using **Power Query**, **Pivot=Tables**, **Pivot-Charts**, **Timeline Filters**, **Slicers**, and **Excel analytics**, the dashboard converts raw business data into meaningful insights that support better operational and management decisions.
 
 It enables stakeholders to quickly identify where money is being lost, why returns occur, and which business areas require immediate attention.
 
