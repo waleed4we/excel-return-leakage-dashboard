@@ -51,12 +51,12 @@ This dashboard provides a centralized analytical view to monitor and reduce retu
 
 Design an executive dashboard capable of answering questions such as:
 
-- Which city generates the highest financial loss?
-- Which seller contributes the most leakage?
-- Which product category is the most expensive?
-- What is the primary return reason?
-- How do return losses change over time?
-- Which customer segment returns the most products?
+- Which city generates the highest financial loss ?
+- Which seller contributes the most leakage ?
+- Which product category is the most expensive ?
+- What is the primary return reason ?
+- How do return losses change over time ?
+- Which customer segment returns the most products ?
 
 ---
 
