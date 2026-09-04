@@ -49,7 +49,7 @@ This dashboard provides a centralized analytical view to monitor and reduce retu
 
 # 💼 Business Objective
 
-Design an executive dashboard capable of answering questions such as:
+Design An Executive Dashboard Capable Of Answering Questions Such AS :
 
 - Which City Generates the Highest Financial Loss?
 - Which Seller Contributes the Most Leakage?
