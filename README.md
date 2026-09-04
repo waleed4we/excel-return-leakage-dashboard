@@ -29,7 +29,7 @@ It enables stakeholders to quickly identify where money is being lost, why retur
 
 ---
 
-# 🎯 Business Actual Problem
+# 🎯 Actual Business Problem
 
 Returned orders create hidden costs beyond refunds
 
