@@ -1,4 +1,4 @@
-# 📊 E-Commerce Return Leakage Dashboard Project
+# 📊 E-Commerce Return Leakage Dashboard
 
 <p align="center">
 
