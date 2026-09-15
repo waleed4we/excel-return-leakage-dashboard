@@ -41,7 +41,7 @@ Businesses lose money through:
 - Customer Return Behaviour
 - Category-specific Return Patterns
 
-Without proper analysis, these losses remain difficult to identify.
+Without Proper Analysis, These Losses Remain Difficult To Identify
 
 This dashboard provides a centralized analytical view to monitor and reduce return leakage.
 
