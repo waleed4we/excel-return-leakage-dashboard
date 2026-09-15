@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-This project is an interactive **Microsoft Excel dashboard** built to analyze **return-related financial losses** In An E-commerce Business
+This project Is An Interactive **Microsoft Excel Dashboard** Built To analyze **return-related financial losses** In An E-commerce Business
 
 Using **Power Query**, **Pivot=Tables**, **Pivot-Charts**, **Timeline Filters**, **Slicers**, and **Excel analytics**, the dashboard converts raw business data into meaningful insights that support better operational and management decisions.
 
